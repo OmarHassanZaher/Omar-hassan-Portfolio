@@ -147,9 +147,6 @@ $(function(){
     //     }
     // });
 
-    window.addEventListener('scroll', {
-        scroll_animations,
-    });
 
 
     // Array.prototype.slice.call(document.querySelectorAll(".page-section")).forEach(function (e, t) {
